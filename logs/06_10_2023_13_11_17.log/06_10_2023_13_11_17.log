@@ -1,0 +1,7 @@
+[ 2023-06-10 13:11:18,524 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-10 13:11:18,527 ] 187 werkzeug - INFO -  * Debugger PIN: 230-176-079
+[ 2023-06-10 13:12:38,961 ] 187 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2023 13:12:38] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-06-10 13:12:39,049 ] 187 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2023 13:12:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-06-10 13:12:39,194 ] 187 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2023 13:12:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-06-10 13:12:39,570 ] 187 werkzeug - INFO - 127.0.0.1 - - [10/Jun/2023 13:12:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-06-10 13:18:16,065 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\vozon comsof pvt ltd\\ml-e2e-pipelineproject\\ml_pipeline_project\\ml_pipeline_project_e-2-e\\app.py', reloading

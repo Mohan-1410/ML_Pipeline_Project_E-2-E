@@ -1,7 +1,4 @@
-# Create prediction peipeline class -> completed
-# create function for load a object -> completed
-# Create custome class basd upon our dataset -> completed
-# Create function to convert data into Dataframe with the help of DIct
+
 
 import os, sys
 from SRC.logger import logging
@@ -29,7 +26,7 @@ class PredictionPipeline:
         return pred
 
 
-class CustomeClass:
+class CustomClass:
     def __init__(self, 
                   age:int,
                   workclass:int, 

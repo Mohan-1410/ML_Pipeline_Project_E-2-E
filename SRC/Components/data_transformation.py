@@ -12,7 +12,7 @@ from SRC.utils import save_object
 
 @dataclass
 class DataTransfrormationConfigs:
-    preprocess_obj_file_patrh = os.path.join("artifacts/data_tranformation", "preprcessor.pkl")
+    preprocess_obj_file_patrh = os.path.join("artifacts/data_tranformation", "preprocessor.pkl")
 
 
 class DataTransformation:
