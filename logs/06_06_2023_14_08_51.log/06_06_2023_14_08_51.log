@@ -1,0 +1,72 @@
+[ 2023-06-06 14:08:51,570 ] 186 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on 
+ 
+[ 2023-06-06 14:08:51,570 ] 186 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-06-06 14:08:51,573 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:08:51,917 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-06 14:08:51,917 ] 186 werkzeug - INFO -  * Debugger PIN: 575-496-468
+[ 2023-06-06 14:11:17,291 ] 8 root - INFO - We are testing our second method of logging
+[ 2023-06-06 14:11:17,293 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 14:11:17] "GET / HTTP/1.1" 200 -
+[ 2023-06-06 14:11:17,329 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 14:11:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-06 14:11:59,884 ] 8 root - INFO - We are testing our second method of logging
+[ 2023-06-06 14:11:59,884 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 14:11:59] "GET / HTTP/1.1" 200 -
+[ 2023-06-06 14:11:59,922 ] 186 werkzeug - INFO - 127.0.0.1 - - [06/Jun/2023 14:11:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-06 14:13:30,610 ] 186 werkzeug - INFO -  * Detected change in 'c:\\users\\vozon comsof pvt ltd\\ml-e2e-pipelineproject\\ml_pipeline_project\\ml_pipeline_project_e-2-e\\SRC\\exceptions.py', reloading
+[ 2023-06-06 14:13:30,643 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:13:39,691 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:13:49,103 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:13:56,600 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:00,380 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:05,711 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:09,239 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:12,657 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:14,603 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:23,409 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:27,252 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:34,539 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:38,343 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:42,212 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:14:49,883 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:03,823 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:05,821 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:07,569 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:13,059 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:18,441 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:22,196 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:29,432 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:32,899 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:36,618 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:40,352 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:44,104 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:49,666 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:16:53,397 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:03,094 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:08,531 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:12,092 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:14,139 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:18,024 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:25,338 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:30,833 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:41,712 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:47,099 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:52,699 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:56,097 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:17:59,573 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:18:35,754 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:18:44,451 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:19:21,754 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:19:23,627 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:19:29,089 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:19:38,122 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:19:43,582 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:19:54,429 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:20:03,428 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:20:07,200 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:28:35,213 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:28:38,964 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:28:46,032 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:28:49,944 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:29:12,866 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:29:19,868 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:29:27,070 ] 186 werkzeug - INFO -  * Restarting with stat
+[ 2023-06-06 14:29:37,675 ] 186 werkzeug - INFO -  * Restarting with stat

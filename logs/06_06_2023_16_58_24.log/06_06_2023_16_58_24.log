@@ -1,0 +1,3 @@
+[ 2023-06-06 16:58:24,891 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-06 16:58:24,893 ] 186 werkzeug - INFO -  * Debugger PIN: 575-496-468
+[ 2023-06-06 16:58:28,884 ] 186 werkzeug - INFO -  * Detected change in 'c:\\users\\vozon comsof pvt ltd\\ml-e2e-pipelineproject\\ml_pipeline_project\\ml_pipeline_project_e-2-e\\SRC\\Components\\data_ingestion.py', reloading

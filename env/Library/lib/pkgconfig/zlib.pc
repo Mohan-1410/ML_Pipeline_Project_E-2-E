@@ -1,0 +1,13 @@
+prefix=C:/Users/Vozon Comsof Pvt Ltd/ML-E2E-PipelineProject/ML_Pipeline_Project/ML_Pipeline_Project_E-2-E/env/Library
+exec_prefix=C:/Users/Vozon Comsof Pvt Ltd/ML-E2E-PipelineProject/ML_Pipeline_Project/ML_Pipeline_Project_E-2-E/env/Library
+libdir=C:/Users/Vozon Comsof Pvt Ltd/ML-E2E-PipelineProject/ML_Pipeline_Project/ML_Pipeline_Project_E-2-E/env/Library/lib
+sharedlibdir=C:/Users/Vozon Comsof Pvt Ltd/ML-E2E-PipelineProject/ML_Pipeline_Project/ML_Pipeline_Project_E-2-E/env/Library/lib
+includedir=C:/Users/Vozon Comsof Pvt Ltd/ML-E2E-PipelineProject/ML_Pipeline_Project/ML_Pipeline_Project_E-2-E/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
